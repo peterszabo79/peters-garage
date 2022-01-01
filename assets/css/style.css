@@ -7,8 +7,61 @@
 }
 
 body {
-    font-family: Pushter, sans-serif;
-    font-weight: 300;
-    
+    font-family: Pushster, sans-serif;
+    font-weight: 600;
+    color:#383535;
+    background-image: url('../images/green spori.jpg') no-repeat center;
+}
+/* headings and logo */
+
+h1, h2 {
+    font-family: Lato, sans-serif;
+    letter-spacing: 6px;
+    color: #0a4e43;
+}
+
+#logo {
+    float: left;
+    font-size: 400;
+    margin-left: 40px;
 
 }
+/* navigation links */
+
+#menu {
+    font-size: 120%;
+    letter-spacing: 5px;
+}
+
+#menu, #logo {
+     line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 40px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 2px ridge #9b072c;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+/* hero image  and cover text */
+
+#hero-image {
+        height: 600px;
+        width: 100%;
+        background: url('../images/green spori.jpg') no-repeat center center;
+    
+}
+
