@@ -138,6 +138,16 @@ footer{
     
 /* For medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px){
+    
+
+
+    #photos{
+        column-count: 3;
+    }
+}
+
+/* For small screens sizes from 800px wide and down */
+@media screen and (max-width: 800px){
     #menu{
         clear: left;
         float: left;
@@ -149,14 +159,23 @@ footer{
     #cover-text{
         left:0px;
     }
-
     #photos{
-        column-count: 3;
+        column-count: 2;
     }
 }
+/* For small screens sizes from 400px wide and down */
+@media screen and (max-width: 400px){
+    #menu{
+        clear: left;
+        float: left;
+        margin-left: 30px; 
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
 
-/* For small screens sizes from 800px wide and down */
-@media screen and (max-width: 800px){
+    #cover-text{
+        left:0px;
+    }
     #photos{
         column-count: 2;
     }
