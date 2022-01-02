@@ -18,31 +18,35 @@
                 <a href="contact.html" class="active">Contact</a>
                 </li>
             <li>
-                <a href="gallery.html" class="active">Gallery</a>
+                <a href="gallery.html">Gallery</a>
             </li>
             <li>
-                <a href="index.html" class="active">Home</a>
+                <a href="index.html">Home</a>
             </li>
         </ul>
     </nav>
 
 </header>
-    <section id="hero-outer">
-        <div id="hero-image"></div>
-        <div id="cover-text">
-            
-            <h3>Why do people build custom motorcycles?There’s at least one obvious answer: they do it so they can have a custom motorcycle.
-                But if all you wanted was to own a custom motorcycle, there are easier ways to get one.Come to my garage.Have a chat.Tell me your dreams.And ill make it come through.</h3>
-        </div>
-    </section>
-    <section>
-        <h1><i class="fas fa-motorcycle"></i> why<i class="fas fa-motorcycle"></i></h1>
-        <h2>Why do people build custom motorcycles?There’s at least one obvious answer: 
-            they do it so they can have a custom motorcycle.
-            But if all you wanted was to own a custom motorcycle, 
-            there are easier ways to get one.Come to my garage.
-            Have a chat.Tell me your dreams.And ill make it come through.</h2>
-    </section>
+<section class="form-section">
+    <form clas="contact-form" method="POST" action="https://formdump.codeinstitute.net/" class="contact-form">
+        <h2><i class="fas fa-tools"></i>Contact Me</h2>
+        <label for="fname">First Name</label>
+        <input class="text-input" id="fname" name="first_name" type="text" required>
+        
+        <label for="lname">Last Name</label>
+        <input class="text-input" id="lname" name="last_name" type="text" required>
+        
+        <label for="email">Email Address</label>
+        <input class="text-input" type="email" id="email" name="email_address" required>
+
+        <label for="phone">Phone Number</label>
+        <input class="text-input" type="phone" id="phone" name="phone_number" required>
+        
+        
+        <input class="join-button" type="submit" value="Send">
+    </form>
+</section>
+
     
     <footer>
         <ul class="social-networks">
