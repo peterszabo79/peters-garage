@@ -22,9 +22,11 @@ h1 {font-family: Pushster, sans-serif;
     font-size: 75px;
 }
 h2 {
+    
     font-family: Lato, sans-serif;
     letter-spacing: 4px;
     color: #0a4e43;
+    background-image: url('../images/nope.jpg') no-repeat center;
 }
 #builders {
     
