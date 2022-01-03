@@ -14,11 +14,27 @@ body {
 }
 /* headings and logo */
 
-h1, h2 {
+h1 {font-family: Pushster, sans-serif;
+    letter-spacing: 4px;
+    color: #04290d;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 75px;
+}
+h2 {
     font-family: Lato, sans-serif;
     letter-spacing: 4px;
     color: #0a4e43;
 }
+#builders {
+    
+    color: aqua;
+    
+}
+ #builders i {
+    color: crimson;
+}
+
 
 #logo {
     float: left;
