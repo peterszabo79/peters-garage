@@ -14,20 +14,30 @@ body {
 }
 /* headings and logo */
 
+/* use some help from mdn wedocs */
+
+
 h1 {font-family: Pushster, sans-serif;
     letter-spacing: 4px;
     color: #04290d;
     text-align:center;
-    text-transform: uppercase;
-    font-size: 75px;
+    text-decoration: underline;
+    font-size: 50px;
 }
 h2 {
     
     font-family: Lato, sans-serif;
+    letter-spacing: 2px;
+    font-size: 26px;
+    color: #0a4e43;
+}
+    
+h3 {
+    font-family: Lato, sans-serif;
     letter-spacing: 4px;
     color: #0a4e43;
-    background-image: url('../images/nope.jpg') no-repeat center;
 }
+
 #builders {
     
     color: aqua;
@@ -109,10 +119,30 @@ h2 {
     position: absolute;
 }
 
+/* Links */
+
+#link-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#link-image {
+    height: 600px;
+        width: 100%;
+        background: url('../images/pexels-shreeneet-rathi-4007300.jpg') no-repeat center center;
+    
+}
+
+
+
+
+
 
 /* Footer */
 
-footer{
+.footer{
     height: 150px;
 }
 
@@ -148,7 +178,7 @@ footer{
 
 .form-section {
     clear: left;
-    background: url("../images/pexels-shreeneet-rathi-4007300.jpg");
+    background: url("../images/pexels-cottonbro-4480461.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
