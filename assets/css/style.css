@@ -54,6 +54,7 @@ h3 {
     margin-left: 40px;
 
 }
+
 /* navigation links */
 
 #menu {
@@ -120,23 +121,6 @@ h3 {
 }
 
 /* Links */
-
-#link-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
-
-#link-image {
-    height: 600px;
-        width: 100%;
-        background: url('../images/pexels-shreeneet-rathi-4007300.jpg') no-repeat center center;
-    
-}
-
-
-
 
 
 
