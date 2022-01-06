@@ -9,7 +9,7 @@
 body {
     font-family: Pushster, sans-serif;
     font-weight: 600;
-    color:#383535;
+    color:#1b4b27;
     background-image: url('../images/white\ chopperflip.jpg') no-repeat center;
 }
 /* headings and logo */
@@ -19,7 +19,7 @@ body {
 
 h1 {font-family: Pushster, sans-serif;
     letter-spacing: 4px;
-    color: #04290d;
+    color: #1b4b27;
     text-align:center;
     text-decoration: underline;
     font-size: 50px;
@@ -29,19 +29,22 @@ h2 {
     font-family: Lato, sans-serif;
     letter-spacing: 2px;
     font-size: 26px;
-    color: #0a4e43;
+    color: #1b4b27;
     text-align: center;
 }
     
 h3 {
     font-family: Lato, sans-serif;
     letter-spacing: 4px;
-    color: #0a4e43;
+    color: #1b4b27;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 #builders {
     
-    color: aqua;
+    color: #1b4b27;
+    text-align: center;
     
 }
 #builders i {
@@ -79,11 +82,11 @@ h3 {
 }
 
 #menu a:hover {
-    border-bottom: 2px ridge #3a630b;
+    border-bottom: 2px ridge #1b4b27;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #1b4b27;
 }
 
 /* hero image  and cover text */
@@ -97,7 +100,7 @@ h3 {
 #hero-image {
         height: 600px;
         width: 100%;
-        background: url('../images/greensporiok.jpg') no-repeat center center;
+        background: url('../images/white\ chopperflip.jpg') no-repeat center center;
     
 }
 
@@ -129,7 +132,7 @@ h3 {
 
 .social-networks{
     text-align: center;
-    background-color: yellow;
+    background-color:#1b4b27;
 
 }
 
@@ -141,7 +144,7 @@ h3 {
     font-size: 200%;
     margin: 1%;
     padding: 5%;
-    color: #3a630b;
+    color: white;
 }
 
 /* Gallery Photos */
@@ -160,7 +163,7 @@ h3 {
 
 .form-section {
     clear: left;
-    background: url("../images/pexels-cottonbro-4480461.jpg");
+    background: url("../images/greenspori.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -168,11 +171,14 @@ h3 {
 .contact-form {
     margin: 150px 10% 0 0;
     color: #0a4e43;
-    background-color: rgba(1, 1, 1, 0.8);
+    background-color: rgba(1, 1, 1, 0.1);
     max-width: 400px;
     position: absolute;
     padding: 30px;
     left: 10%;
+}
+.contact-form label {
+    font-size: 50px;
 }
 .contact-form h2 {
     color: #0a4e43;
