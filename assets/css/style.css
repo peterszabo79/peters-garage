@@ -15,10 +15,11 @@ body {
 }
 /* headings and logo */
 
-/* use some help from mdn wedocs */
+/* mdn wedocs */
 
 
-h1 {font-family: Pushster, sans-serif;
+h1 {
+    font-family: Pushster, sans-serif;
     letter-spacing: 4px;
     color: #1b4b27;
     text-align:center;
@@ -135,7 +136,7 @@ h3 {
 
 /* Footer */
 
-.footer{
+.footer {
     height: 150px;
 }
 
@@ -157,6 +158,7 @@ h3 {
 }
 
 /* Gallery Photos */
+/* my own images */
 
 #photos {
     clear: both;
@@ -168,7 +170,8 @@ h3 {
 #photos img{
     width: 100%;
 }
-/* Form */
+/* Form */ 
+/* from LoveRunning challenge */
 
 .form-section {
     clear: left;
@@ -222,10 +225,11 @@ h3 {
 }
 
 /* Media queries */
+/* from Love Running project */
 
 /* For large to medium screens sizes from 1200px wide and down */
 @media screen and (max-width: 1200px){
-    #photos{
+    #photos {
         column-count: 4;
     }
 }
@@ -235,14 +239,14 @@ h3 {
     
 
 
-    #photos{
+    #photos {
         column-count: 3;
     }
 }
 
 /* For small screens sizes from 800px wide and down */
 @media screen and (max-width: 800px){
-    #menu{
+    #menu {
         clear: left;
         float: left;
         margin-left: 30px; 
@@ -250,16 +254,16 @@ h3 {
         line-height: 25px;
     }
 
-    #cover-text{
+    #cover-text {
         left:0px;
     }
-    #photos{
+    #photos {
         column-count: 2;
     }
 }
 /* For small screens sizes from 400px wide and down */
 @media screen and (max-width: 400px){
-    #menu{
+    #menu {
         clear: left;
         float: left;
         margin-left: 30px; 
