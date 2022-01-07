@@ -49,16 +49,16 @@ h3 {
     color: #1b4b27;
 }
 
-#builders {
-    
-    color: #1b4b27;
-    text-align: center;
-    
+.custom-bikes {
+    text-align:center
 }
-#builders i {
-    color: #fafafa;
+.custom-bikes li {
+    color:#1b4b27;
 }
 
+.custom-bikes i {
+    color: red;
+}
 
 #logo {
     float: left;
