@@ -50,7 +50,8 @@ h3 {
 }
 
 .custom-bikes {
-    text-align:center
+    text-align:center;
+    font-size: 26px;
 }
 .custom-bikes li {
     color:#1b4b27;
