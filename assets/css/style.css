@@ -43,11 +43,12 @@ h2 {
     margin :20px;
 }   
 h3 {
-    color:#0a4e43;
+    color:#e45d5d;
     font-family: Pushster, sans-serif;
     text-align: center;
-    margin:10px;
     font-size:40px;
+    background: url('../images/IMG_2118.jpg') no-repeat center center;
+    
 }
 
 
@@ -61,7 +62,7 @@ h3 {
 }
 
 .custombikes i {
-    color: red;
+    color: #e45d5d;
 }
 
 #logo {

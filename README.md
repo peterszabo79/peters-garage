@@ -5,3 +5,11 @@ About my site
 
 <img src="assets/images/petersgaragescrshot.jpeg" alt="scrshot">
 
+photos an screenshots edited by photos app and preview on mac osx
+
+
+features
+
+
+
+
