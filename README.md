@@ -17,6 +17,12 @@ This site is for people who want to find their ways to own and ride a one of a k
 </ul>
 
 <img src="assets/images/navbar.jpeg" alt="navbar"></ul>
+<li>The Header</li>
+<ul>
+<li>The header shows the name of the garage name using Pushster fonts.</li>
+<li> The header explains about location, goal, and the type of jobs.</li>
+<li>The header also explains about custom culture, provided few links help to understand this special lifestyle with history, builders, custom-parts.</li></ul>
+
 
 
  
