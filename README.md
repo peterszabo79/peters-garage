@@ -10,6 +10,10 @@ This site is for people who want to find their ways to own and ride a one of a k
 
 Features
 
+<ul>
+<li>Featured at the top of the page, the navigation shows the garage name in the left corner: Peter’s Garage that links to the Home of the page.</li>
+<li>The other navigation links are to the right: Home, Gallery, Contact which links to a different page on the site.</li></ul>
+ 
 
 pictures and screenshots edited by photos app and preview on mac osx
 
