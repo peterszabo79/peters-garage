@@ -14,20 +14,40 @@ This site is for people who want to find their ways to own and ride a one of a k
 <li>Featured at the top of the page, the navigation shows the garage name in the left corner: Peter’s Garage that links to the Home of the page.</li>
 <li>The other navigation links are to the right: Home, Gallery, Contact which links to a different page on the site.</li>
 <li>The navigation tells the user the name of the garage and website and makes the different sections easy to find as shown underlined in the active section.</li>
-</ul>
+</ul></ul>
 
 <img src="assets/images/navbar.jpeg" alt="navbar"></ul>
-<li>The Header</li>
+<ul>The Header
 <ul>
 <li>The header shows the name of the garage name using Pushster fonts.</li>
-<li> The header explains about location, goal, and the type of jobs.</li>
-<li>The header also explains about custom culture, provided few links help to understand this special lifestyle with history, builders, custom-parts.</li></ul>
+<li>The header explains about location, goal, and the type of jobs.</li>
+<li>The header also explains about custom culture, provided few links help to understand this special lifestyle with history, builders, custom-parts.</li>
+</ul></ul>
+
+<img src="assets/images/ScreenshotHeader).jpeg" alt="navbar">
+
+<ul>Gallery<ul>
+<li>Gallery shows some images from my bikes, during the building process from beginning to the final multiple prize-winning custom bike.
+</li></ul></ul>
+
+<img src="assets/images/screenshotgallery.jpeg" alt="navbar">
+
+<ul>Contact<ul>
+<li>The contact page has a section to let users contact me by giving name email and phone number.</li>
+<li>The contact page has  a free image downloaded from stocksnap.
+</li>
+</ul></ul>
+
+<img src="assets/images/screenshotcontact.jpeg" alt="navbar">
+
+
+
 
 
 
  
 
-pictures and screenshots edited by photos app and preview on mac osx
+pictures and screenshots edited my photos app and preview on mac osx
 
 
 
