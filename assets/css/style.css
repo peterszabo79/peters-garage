@@ -273,7 +273,11 @@ h3 {
         margin-bottom: 20px;
         line-height: 25px;
     }
-
+    #menu li {
+        float: right;
+        list-style-type: none;
+        margin-right: 10px;
+    }
     #cover-text{
         left:0px;
     }
