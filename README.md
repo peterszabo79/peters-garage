@@ -42,7 +42,8 @@ This site is for people who want to find their ways to own and ride a one of a k
 
 <ul>Testing<ul>
 <li>I tested that this page works in different browsers: Chrome, Safari, Firefox, Opera.</li>
-<li>I comfirmed that this page is responsive, looks good and functions on all standard screen sizes using devtools device toolbar.</li></ul><ul>
+<li>I comfirmed that this page is responsive, looks good and functions on all standard screen sizes using devtools device toolbar.</li>
+<li>I confirmed that the navigation, header, contact, contact me text are all readable and easy to understand.</li></ul><ul>
 
 
 
