@@ -6,7 +6,7 @@ Introduce my garage which offers any kind of customization.
 Users of this website can read and learn about Custom Bikes, builders, parts, kinds of bikes.
 This site is for people who want to find their ways to own and ride a one of a kind motorcycle.
 
-<img src="assets/images/petersgaragescrshot.jpeg" alt="scrshot">
+<img src="assets/images/respon.jpeg" alt="scrshot">
 
 <ul>Features
 
