@@ -163,14 +163,14 @@ h3 {
 /* Gallery Photos */
 /* my own images */
 
-#photos {
+h4 {
     clear: both;
     line-height: 1;
     column-count: 4;
     column-gap: 2px;
 }
 
-#photos img{
+h4 img{
     width: 100%;
 }
 /* Form */ 
@@ -232,7 +232,7 @@ h3 {
 
 /* For large to medium screens sizes from 1200px wide and down */
 @media screen and (max-width: 1200px){
-    #photos {
+    h4 {
         column-count: 4;
     }
 }
@@ -242,7 +242,7 @@ h3 {
     
 
 
-    #photos {
+   h4 {
         column-count: 3;
     }
 }
@@ -260,7 +260,7 @@ h3 {
     #cover-text {
         left:0px;
     }
-    #photos {
+    h4 {
         column-count: 2;
     }
 }
@@ -286,7 +286,7 @@ h3 {
     #cover-text{
         left:0px;
     }
-    #photos{
+    h4 {
         column-count: 2;
     }
 }

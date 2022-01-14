@@ -43,7 +43,14 @@ This site is for people who want to find their ways to own and ride a one of a k
 <ul>Testing<ul>
 <li>I tested that this page works in different browsers: Chrome, Safari, Firefox, Opera.</li>
 <li>I comfirmed that this page is responsive, looks good and functions on all standard screen sizes using devtools device toolbar.</li>
-<li>I confirmed that the navigation, header, contact, contact me text are all readable and easy to understand.</li></ul><ul>
+<li>I confirmed that the navigation, header, contact, contact me text are all readable and easy to understand.</li>
+<li>I have confirmed the contact form works: requires entries in every field, will only accept an email in the email field, phone number in the phone number field and the submit button works.</li>
+<li>I have confirmed the links in the pages are works, open in a new tab.</li>
+</ul></ul>
+
+<ul>Validator Testing</ul>
+<li>HTML</li>
+<li>No errors was returned when passing through the offical W3C validator</li>
 
 
 
