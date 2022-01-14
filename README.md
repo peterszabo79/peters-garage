@@ -80,17 +80,20 @@ This site is for people who want to find their ways to own and ride a one of a k
 <br>
 
 # Deployment
-<li>The site was deployed to GitHub pages. The steps to deploy are the follows:
-<li>In the Github repository, navigate to the Settings tab</li>
+<li>The site was deployed to GitHub pages. The steps to deploy are the follows:</li>
+<ul><li>In the Github repository, navigate to the Settings tab</li>
 <li>From the source section drop-down menu, select the Master Branch</li>
 <li>Once the Master Banch has been selected, the page privided the link to the completed website.</li>
 
 <br>
 
 The live link can be found here - [Peter's Garage](https://peterszabo79.github.io/project-no1/)
+</ul>
 
+<br>
 
- 
+# Credit
+
 
 pictures and screenshots edited my photos app and preview on mac osx
 
