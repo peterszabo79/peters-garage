@@ -8,53 +8,86 @@ This site is for people who want to find their ways to own and ride a one of a k
 
 <img src="assets/images/respon.jpeg" alt="scrshot">
 
-<ul>Features
+<br>
 
-<ul>
+# Features
+
+
 <li>Featured at the top of the page, the navigation shows the garage name in the left corner: Peter’s Garage that links to the Home of the page.</li>
 <li>The other navigation links are to the right: Home, Gallery, Contact which links to a different page on the site.</li>
 <li>The navigation tells the user the name of the garage and website and makes the different sections easy to find as shown underlined in the active section.</li>
-</ul></ul>
+
+<br>
+
 
 <img src="assets/images/navbar.jpeg" alt="navbar"></ul>
-<ul>The Header
-<ul>
+
+<br>
+
+# The Header
 <li>The header shows the name of the garage name using Pushster fonts.</li>
 <li>The header explains about location, goal, and the type of jobs.</li>
 <li>The header also explains about custom culture, provided few links help to understand this special lifestyle with history, builders, custom-parts.</li>
-</ul></ul>
+<br>
 
-<img src="assets/images/ScreenshotHeader).jpeg" alt="navbar">
+<img src="assets/images/ScreenshotHeader).jpeg">
 
-<ul>Gallery<ul>
+<br>
+
+# Gallery
 <li>Gallery shows some images from my bikes, during the building process from beginning to the final multiple prize-winning custom bike.
-</li></ul></ul>
+</li>
 
-<img src="assets/images/screenshotgallery.jpeg" alt="navbar">
+<br>
 
-<ul>Contact<ul>
+<img src="assets/images/screenshotgallery.jpeg">
+
+<br>
+
+
+# Contact
 <li>The contact page has a section to let users contact me by giving name email and phone number.</li>
 <li>The contact page has  a free image downloaded from stocksnap.
 </li>
-</ul></ul>
+<br>
 
-<img src="assets/images/screenshotcontact.jpeg" alt="navbar">
 
-<ul>Testing<ul>
+<img src="assets/images/screenshotcontact.jpeg">
+
+<br>
+
+# Testing
 <li>I tested that this page works in different browsers: Chrome, Safari, Firefox, Opera.</li>
 <li>I comfirmed that this page is responsive, looks good and functions on all standard screen sizes using devtools device toolbar.</li>
 <li>I confirmed that the navigation, header, contact, contact me text are all readable and easy to understand.</li>
 <li>I have confirmed the contact form works: requires entries in every field, will only accept an email in the email field, phone number in the phone number field and the submit button works.</li>
 <li>I have confirmed the links in the pages are works, open in a new tab.</li>
-</ul></ul>
 
-<ul>Validator Testing</ul>
-<li>HTML</li>
-<li>No errors was returned when passing through the offical W3C validator</li>
+<br>
 
+# Validator Testing
+<li>HTML<ul>
+<li>No errors were returned when passing through the offical W3C validator</li></ul>
 
+<li>CSS<ul>
+<li>No errors were returned when passing through the offical (Jigsaw) validator</li></ul>
 
+<li>Accesibility<ul>
+<li>I confirmed that the colors and fonts chosen are easy to read and accessibele by running it through Lighthouse in devtools</li></ul>
 
+<img src="assets/images/screenshotaccessibility.jpeg">
+
+<br>
+
+# Deployment
+<li>The site was deployed to GitHub pages. The steps to deploy are the follows:
+<li>In the Github repository, navigate to the Settings tab</li>
+<li>From the source section drop-down menu, select the Master Branch</li>
+<li>Once the Master Banch has been selected, the page privided the link to the completed website.</li>
+
+<br>
+
+The live link can be found here - [Peter's Garage](https://peterszabo79.github.io/project-no1/)
 
 
  
