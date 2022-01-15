@@ -93,9 +93,14 @@ The live link can be found here - [Peter's Garage](https://peterszabo79.github.i
 <br>
 
 # Credit
+Code
+<li>The Code Institute Love Running project helped me from the beginning.
+</li>
+<details>
+<summary>dropdown test</summary>
+<pre>pictures<br>pictures and screenshots edited my photos app and preview on mac osx</pre>
+</details>
 
-
-pictures and screenshots edited my photos app and preview on mac osx
 
 
 
