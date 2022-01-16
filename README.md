@@ -94,8 +94,19 @@ The live link can be found here - [Peter's Garage](https://peterszabo79.github.i
 
 # Credit
 Code
-<li>The Code Institute Love Running project helped me from the beginning.
+<li>The Code Institute Love Running Walkthrough Project helped me from the beginning.
 </li>
+<li>Slack. -  #peer-code-review</li>
+<li>Slack. -  #lcetb-nov-2021</li>
+<li>google fonts</li>
+<li>font awesome</li>
+<li>stocksnap-image</li>
+<li>Love Running Walkthrough Project -Sign Up Challenge</li>
+<li>gitpod tricks and trips</li>
+<li>w3school</li>
+<li>https://developer.mozilla.org/</li>
+<br>
+
 <details>
 <summary>dropdown test</summary>
 <pre>pictures<br>pictures and screenshots edited my photos app and preview on mac osx</pre>
