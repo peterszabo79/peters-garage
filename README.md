@@ -93,24 +93,28 @@ The live link can be found here - [Peter's Garage](https://peterszabo79.github.i
 <br>
 
 # Credit
-Code
-<li>The Code Institute Love Running Walkthrough Project helped me from the beginning.
+<details>
+<li>The Code Institute Love Running Walkthrough Project helped me from the beginning thrught finish my project
 </li>
-<li>Slack. -  #peer-code-review</li>
-<li>Slack. -  #lcetb-nov-2021</li>
-<li>google fonts</li>
-<li>font awesome</li>
-<li>stocksnap-image</li>
-<li>Love Running Walkthrough Project -Sign Up Challenge</li>
-<li>gitpod tricks and trips</li>
-<li>w3school</li>
-<li>https://developer.mozilla.org/</li>
+<li>Slack. -  #peer-code-review - helped me writing my Readme</li>
+<li>Slack. -  #lcetb-nov-2021 - helped fixing typing errors</li>
+<li>google fonts - used to choose my fonts Pushster and Lato </li>
+<li>font awesome - used for social madia icons and and a motorbike icon in About custom motorcycles section</li>
+<li>stocksnap-image - free image downloaded for "Contac me" page</li>
+<li>Love Running Walkthrough Project -Sign Up Challenge - code used "Contact me" page</li>
+<li>gitpod tricks and trips - used during writing both HTML and CSS</li>
+<li>w3school - used during writing both HTML and CSS</li>
+<li>developer.mozilla.org - used during writing both HTML and CSS</li>
+<li>Grammarly - used for correct my texs</li>
+<li>web.dev - used for images loading faster in my "Gallery" </li>
+<li>TinyPNG - resize and compress images</li>
+<li>Chrome devtools - used for fixing my code all way through in my project</li>
+<li>Images and screenshots edited by "Photos" app and "Preview" on mac osx</li>
+</details>
 <br>
 
-<details>
-<summary>dropdown test</summary>
-<pre>pictures<br>pictures and screenshots edited my photos app and preview on mac osx</pre>
-</details>
+
+
 
 
 
