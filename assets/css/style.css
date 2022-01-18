@@ -17,7 +17,6 @@ body {
 
 /* mdn wedocs */
 
-
 h1 {
     font-family: Pushster, sans-serif;
     letter-spacing: 4px;
@@ -32,9 +31,7 @@ h2 {
     letter-spacing: 1px;
     font-size: 25px;
     color: #0a4e43;
-    
 }
-
 #customculture {
     font-family: Lato, sans-serif;
     letter-spacing: 2px;
@@ -50,8 +47,6 @@ h3 {
     background: url('../images/IMG_2118.jpg') no-repeat center center;
     
 }
-
-
 .custombikes {
     text-align:center;
     font-size: 26px;
@@ -116,8 +111,6 @@ h3 {
         background: url('../images/whitechopperflip.jpg') no-repeat center center;
     
 }
-
-
 #cover-text {
     font-size: 130%;
     font-family: Lato, sans-serif;
@@ -239,10 +232,7 @@ h4 img{
     
 /* For medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px){
-    
-
-
-   h4 {
+    h4 {
         column-count: 3;
     }
 }
