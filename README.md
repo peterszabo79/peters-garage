@@ -98,11 +98,11 @@ The live link can be found here - [Peter's Garage](https://peterszabo79.github.i
 </li>
 <li>Slack. -  #peer-code-review - helped me writing my Readme</li>
 <li>Slack. -  #lcetb-nov-2021 - helped fixing typing errors</li>
-<li>google fonts - used to choose my fonts Pushster and Lato </li>
-<li>font awesome - used for social madia icons and and a motorbike icon in About custom motorcycles section</li>
-<li>stocksnap-image - free image downloaded for "Contac me" page</li>
+<li>Google fonts - used to choose my fonts Pushster and Lato </li>
+<li>Font awesome - used for social media icons and and a motorbike icon in About custom motorcycles section</li>
+<li>Stocksnap-image - free image downloaded for "Contac me" page</li>
 <li>Love Running Walkthrough Project -Sign Up Challenge - code used "Contact me" page</li>
-<li>gitpod tricks and trips - used during writing both HTML and CSS</li>
+<li>Gitpod tricks and trips - used during writing both HTML and CSS</li>
 <li>w3school - used during writing both HTML and CSS</li>
 <li>developer.mozilla.org - used during writing both HTML and CSS</li>
 <li>Grammarly - used for correct my texs</li>
