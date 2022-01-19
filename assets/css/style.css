@@ -44,7 +44,7 @@ h3 {
     font-family: Pushster, sans-serif;
     text-align: center;
     font-size:40px;
-    background: url('../images/IMG_2118.jpg') no-repeat center center;
+    background: url('../images/IMG_2118.webp') no-repeat center center;
     
 }
 .custombikes {
@@ -108,7 +108,7 @@ h3 {
 #hero-image {
         height: 600px;
         width: 100%;
-        background: url('../images/whitechopperflip.jpg') no-repeat center center;
+        background: url('../images/whitechopperflip.webp') no-repeat center center;
     
 }
 #cover-text {
@@ -171,7 +171,7 @@ h4 img{
 
 .form-section {
     clear: left;
-    background: url("../images/greenspori.jpg");
+    background: url("../images/greensporiok.webp");
     background-size: cover;
     background-position: center;
     height: 900px;
