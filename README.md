@@ -67,15 +67,23 @@ This site is for people who want to find their ways to own and ride a one of a k
 
 # Validator Testing
 <li>HTML<ul>
-<li>No errors were returned when passing through the offical W3C validator</li></ul>
+<li>No errors were returned when passing through the offical W3C validator.Both pages were tested. index,gallery,contact</li></ul>
 
 <li>CSS<ul>
 <li>No errors were returned when passing through the offical (Jigsaw) validator</li></ul>
 
 <li>Accesibility<ul>
-<li>I confirmed that the colors and fonts chosen are easy to read and accessibele by running it through Lighthouse in devtools</li></ul>
+<li>I confirmed that the colors and fonts chosen are easy to read and accessible by running it through Lighthouse in devtools</li></ul>
+Home <br>
+<img src="assets/images/screenshothome.jpeg">
 
-<img src="assets/images/screenshotaccessibility.jpeg">
+Gallery <br>
+
+<img src="assets/images/screenshotgallery1.jpeg">
+
+Contact <br>
+<img src="assets/images/screenshotcontact1.jpeg">
+
 
 <br>
 
@@ -87,9 +95,14 @@ This site is for people who want to find their ways to own and ride a one of a k
 
 <br>
 
+
 The live link can be found here - [Peter's Garage](https://peterszabo79.github.io/project-no1/)
 </ul>
 
+<br>
+
+# Issue
+<li>On Gallery page can't reach more than 85% on Performance.Ill tried many sizes and formats with my images.This result was the best using tinyPNG than cloudconvert. Also tried the loading attribute - find on web.dev - which didnt make any succes.</li>
 <br>
 
 # Credit
