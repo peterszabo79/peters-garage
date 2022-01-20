@@ -110,16 +110,16 @@ The live link can be found here - [Peter's Garage](https://peterszabo79.github.i
 <details>
 <li>The Code Institute Love Running Walkthrough Project helped me from the beginning through finish my project
 </li>
-<li>Slack. -  #peer-code-review - helped me writing my Readme</li>
+<li>Slack. -  #peer-code-review - helped me write my Readme</li>
 <li>Slack. -  #lcetb-nov-2021 - helped fixing typing errors</li>
 <li>Google fonts - used to choose my fonts Pushster and Lato </li>
-<li>Font awesome - used for social media icons and and a motorbike icon in custom motorcycles section</li>
+<li>Font awesome - used for social media icons and a motorbike icon in "custom motorcycles" section</li>
 <li>Stocksnap-image - free image downloaded for "Contac me" page</li>
 <li>Love Running Walkthrough Project -Sign Up Challenge - code used "Contact me" page</li>
 <li>Gitpod tricks and trips - used during writing both HTML and CSS</li>
 <li>w3school - used during writing both HTML and CSS</li>
 <li>developer.mozilla.org - used during writing both HTML and CSS</li>
-<li>Grammarly - used for correct my texts</li>
+<li>Grammarly - used to correct my texts</li>
 <li>web.dev - used for images loading faster in my "Gallery" </li>
 <li>TinyPNG - resize and compress images</li>
 <li>Chrome devtools - used for fixing my code all way through in my project</li>
