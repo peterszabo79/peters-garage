@@ -1,10 +1,10 @@
 # Peter's Garage
 Welcome to [Peter's Garage](https://peterszabo79.github.io/project-no1/)!
 
-Peter’s Garage is a website about Custom Bikes. Show a passion for built motorcycle enthusiasts like me.
-Introduce my garage which offers any kind of customization.
-Users of this website can read and learn about Custom Bikes, builders, parts, kinds of bikes.
-This site is for people who want to find their ways to own and ride a one of a kind motorcycle.
+Peter’s Garage is a website about Custom Bikes. It shows a passion for built-motorcycles for other enthusiasts like me and introduces my garage which offers every kind of customization. 
+Users of this website can read and learn about custom bikes, builders, parts, and different kinds of bikes. This site is for people who want to find a way to own and ride a one-of-a-kind motorcycle.
+
+
 
 <img src="assets/images/respon.jpeg" alt="scrshot">
 
@@ -13,9 +13,9 @@ This site is for people who want to find their ways to own and ride a one of a k
 # Features
 
 
-<li>Featured at the top of the page, the navigation shows the garage name in the left corner: Peter’s Garage that links to the Home of the page.</li>
-<li>The other navigation links are to the right: Home, Gallery, Contact which links to a different page on the site.</li>
-<li>The navigation tells the user the name of the garage and website and makes the different sections easy to find as shown underlined in the active section.</li>
+<li>Featured at the top of the page, the navigation shows the garage name in the left corner, “Peter’s Garage” which links to the homepage.</li>
+<li>The other navigation links are to the right: Home, Gallery, and Contact, each linking to a different page on the site.</li>
+<li>The navigation tells the user the name of the garage and website and makes the different sections easy to find. The active page is always shown underlined.</li>
 
 <br>
 
@@ -26,8 +26,8 @@ This site is for people who want to find their ways to own and ride a one of a k
 
 # The Header
 <li>The header shows the name of the garage name using Pushster fonts.</li>
-<li>The header explains about location, goal, and the type of jobs.</li>
-<li>The header also explains about custom culture, provided few links help to understand this special lifestyle with history, builders, custom-parts.</li>
+<li>The introductory text then explains the garage location, goal, and type of jobs.</li>
+<li>This section also explains about custom culture, providing a few links to help the user to understand this special lifestyle with history, builders and custom parts.</li>
 <br>
 
 <img src="assets/images/ScreenshotHeader).jpeg">
@@ -35,8 +35,7 @@ This site is for people who want to find their ways to own and ride a one of a k
 <br>
 
 # Gallery
-<li>Gallery shows some images from my bikes, during the building process from beginning to the final multiple prize-winning custom bike.
-</li>
+<li>The gallery shows some images of my bikes during the building process, from beginning to the final multiple prize-winning custom bike.</li>
 
 <br>
 
@@ -46,8 +45,8 @@ This site is for people who want to find their ways to own and ride a one of a k
 
 
 # Contact
-<li>The contact page has a section to let users contact me by giving their name email and phone number.</li>
-<li>The contact page has a free image downloaded from stocksnap.
+<li>The Contact page has a section to let users contact me by giving their name, email and phone number.</li>
+<li>The Contact page also has a free image downloaded from Stocksnap.
 </li>
 <br>
 
@@ -57,23 +56,26 @@ This site is for people who want to find their ways to own and ride a one of a k
 <br>
 
 # Testing
-<li>I tested that this page works in different browsers: Chrome, Safari, Firefox, Opera.</li>
-<li>I confirmed that this page is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.</li>
-<li>I confirmed that the navigation, header, contact, contact me text are all readable and easy to understand.</li>
-<li>I have confirmed the contact form works: requires entries in every field, will only accept an email in the email field, phone number in the phone number field and the submit button works.</li>
-<li>I have confirmed the links in the pages are works, open in a new tab.</li>
+<li>I tested that this site works in different browsers: Chrome, Safari, Firefox, Opera.</li>
+<li>I confirmed that this site is responsive, looks good and functions well on all standard screen sizes using the Devtools device toolbar.
+</li>
+<li>I confirmed that the Navigation, Header and Contact text are all readable and easy to understand.</li>
+<li>I have confirmed the contact form works: it requires entries in every field, will only accept an email in the email field and a phone number in the phone number field, and the submit button works.
+</li>
+<li>I have confirmed the links in the pages all works and external links open in a new tab.</li>
 
 <br>
 
 # Validator Testing
 <li>HTML<ul>
-<li>No errors were returned when passing through the official W3C validator. Both pages were tested. index,gallery,contact</li></ul>
+<li>No errors were returned when passing through the official W3C validator. All pages were tested: Home, Gallery and Contact.</li></ul>
 
 <li>CSS<ul>
-<li>No errors were returned when passing through the offical (Jigsaw) validator</li></ul>
+<li>No errors were returned when passing through the offical (Jigsaw) validator.</li></ul>
 
 <li>Accessibility<ul>
-<li>I confirmed that the colors and fonts chosen are easy to read and accessible by running it through Lighthouse in devtools</li></ul>
+<li>I confirmed that the colors and fonts chosen are easy to read and accessible by running it through Lighthouse in Devtools.
+</li></ul>
 Home <br>
 <img src="assets/images/screenshothome.jpeg">
 
@@ -88,11 +90,11 @@ Contact <br>
 <br>
 
 # Deployment
-<li>The site was deployed to GitHub pages. The steps to deploy are the follows:</li>
-<ul><li>In the Github repository, navigate to the Settings tab</li>
+<li>The site was deployed to GitHub Pages. The steps to deploy are the follows:</li>
+<ul><li>In the Github repository, navigate to the Settings tab.</li>
 <li>Scroll down to Pages and click on it.</li>
-<li>Select main branch and click save.</li>
-<li>The page provided the link to the completed website.</li>
+<li>Select Main Branch and click Save.</li>
+<li>The page provides a link to the completed website.</li>
 
 <br>
 
@@ -102,28 +104,27 @@ The live link can be found here - [Peter's Garage](https://peterszabo79.github.i
 
 <br>
 
-# Issue
-<li>On Gallery page can't reach more than 85% on Performance. Ill tried many sizes and formats with my images. This result was the best-using tinyPNG than cloud convert. Also tried the loading attribute - find on web.dev - which didn't make any success.</li>
+# Issues
+<li>On the Gallery page, I can't reach more than 85% on Performance. I tried different image sizes and formats to get the best result, and found TinyPNG more effective than Cloud Convert. I also tried the loading attribute - found on web.dev - which didn't make any improvement.</li>
 <br>
 
-# Credit
+# Credits
 <details>
-<li>The Code Institute Love Running Walkthrough Project helped me from the beginning through finish my project
+<li>The Code Institute “Love Running” Walkthrough Project helped me from the beginning through to the finish of my project
 </li>
-<li>Slack. -  #peer-code-review - helped me write my Readme</li>
-<li>Slack. -  #lcetb-nov-2021 - helped fixing typing errors</li>
-<li>Google fonts - used to choose my fonts Pushster and Lato </li>
-<li>Font awesome - used for social media icons and a motorbike icon in "custom motorcycles" section</li>
-<li>Stocksnap-image - free image downloaded for "Contac me" page</li>
-<li>Love Running Walkthrough Project -Sign Up Challenge - code used "Contact me" page</li>
-<li>Gitpod tricks and trips - used during writing both HTML and CSS</li>
-<li>w3school - used during writing both HTML and CSS</li>
-<li>developer.mozilla.org - used during writing both HTML and CSS</li>
-<li>Grammarly - used to correct my texts</li>
-<li>web.dev - used for images loading faster in my "Gallery" </li>
-<li>TinyPNG - resize and compress images</li>
-<li>Chrome devtools - used for fixing my code all way through in my project</li>
-<li>Images and screenshots edited by "Photos" app and "Preview" on mac osx</li>
+<li>Code Institute’s #peer-code-review Slack channel helped me improve my Readme and my cohort channel helped in fixing typing errors.</li>
+<li>Google Fonts was used to choose my fonts, Pushster and Lato.</li>
+<li>Font Awesome was used for social media icons and a motorbike icon in "custom motorcycles" section.</li>
+<li>Stocksnap-image - free image downloaded for Contact page.</li>
+<li>Code Institute’s “Love Running” Walkthrough Project - Sign Up Challenge - code used for the Contact page.</li>
+<li>Gitpod “Tips and Tricks” used during writing both HTML and CSS.</li>
+<li>W3School was used while writing both HTML and CSS.</li>
+<li>developer.mozilla.org was used while writing both HTML and CSS.</li>
+<li>Grammarly was used to correct my text.</li>
+<li>web.dev was used to test and improve image loading in my “Gallery”.</li>
+<li>TinyPNG was used to resize and compress images.</li>
+<li>Chrome Devtools was used for fixing my code all the way through my project.</li>
+<li>Images and screenshots edited in the Mac OS X "Photos" app and "Preview".</li>
 </details>
 <br>
 
