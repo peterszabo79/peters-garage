@@ -10,6 +10,43 @@ Users of this website can read and learn about custom bikes, builders, parts, an
 
 <br>
 
+
+# User Experience (UX)
+User stories
+
+<ul>
+<li>Customer goals:
+<ul>
+<li>As a User I want to be able to navigate clearly and logically throughout website</li>
+<li>As a User I want to learn more about the Garage.</li>
+<li>As a User I want to be able to see a contact form to the Builder.</li>
+<li>As a User I want to be able to find an address of the Garage.</li>
+<li>As a User I want to see pictures of the previous builds.</li>
+<li>As a User I want to learn about Custom Motorcycles.</li>
+<li>As a User I want to have a positive experience using the website.</li>
+</ul></li>
+</ul>
+Design
+<ul>
+<li>Color Scheme:
+<ul>
+<li>Main color is green, used two shades #1b4b27 and #0a4e43</li>
+<li>Other colors are: #e45d5d #fafafa (white) #111010 (black)</li>
+and rgb(162 197 182 / 89%)</li>
+</li></ul>
+<li>Typography
+</li><ul><li>The fonts used are taken from google fonts named 'Pushster' and 'Lato' with a fall-back of sans-serif.</li></ul>
+<li>Imagery
+</li>
+<ul>
+<li>The image used for the hero image it's a white custom chopper with a happy owner who sit on it, which build by the Garage.It's give a good idea of what the Garage might be capable to build.
+<li>Other images used throughout the website represent the process of a build, with an end goal, a multiple show winner custom bobber also build by the Garage.raise users' interest to come and visit the GameHub venue.
+</li>
+</li></ul>
+</ul>
+
+
+
 # Features
 
 
