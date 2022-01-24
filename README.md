@@ -2,7 +2,7 @@
 ## Welcome to [Peter's Garage](https://peterszabo79.github.io/project-no1/)!
 
 ### Peter’s Garage is a website about Custom Bikes. It shows a passion for built-motorcycles for other enthusiasts like me and introduces my garage which offers every kind of customization. Users of this website can read and learn about custom bikes, builders, parts, and different kinds of bikes. This site is for people who want to find a way to own and ride a one-of-a-kind motorcycle.
-<img src="assets/images/respon.jpeg" alt="scrshot">
+![respon](assets/images/respon.jpeg)
 
 ---
 
@@ -22,8 +22,8 @@
 ## Design
 - Color Scheme:
   - Main color is green, used two shades #1b4b27 and #0a4e43
-     <img src="assets/images/1b4b27.jpeg" alt="scrshot">
-     <img src="assets/images/0a4e43.jpeg" alt="scrshot">
+     ![1b4b27](assets/images/1b4b27.jpeg)
+     ![0a4e43](assets/images/0a4e43.jpeg)
   - Other colors are: #e45d5 #e45d5d #fafafa (white) #111010 (black) 
 and rgb(162 197 182 / 89%)
 - Typography:
@@ -38,7 +38,7 @@ and rgb(162 197 182 / 89%)
 - Featured at the top of the page, the navigation shows the garage name in the left corner, “Peter’s Garage” which links to the homepage.
 - The other navigation links are to the right: Home, Gallery, and Contact, each linking to a different page on the site.
 - The navigation tells the user the name of the garage and website and makes the different sections easy to find. The active page is always shown underlined.
-<img src="assets/images/navbar.jpeg" alt="navbar"></ul>
+![navbar](assets/images/navbar.jpeg)
 
 ---
 
@@ -46,20 +46,20 @@ and rgb(162 197 182 / 89%)
 - The header shows the name of the garage name using Pushster fonts.
 - The introductory text then explains the garage location, goal, and type of jobs.
 - This section also explains about custom culture, providing a few links to help the user to understand this special lifestyle with history, builders and custom parts.
-<img src="assets/images/ScreenshotHome.jpeg">
+![home1](assets/images/ScreenshotHome.jpeg)
 
 ---
 
 # [Gallery](https://peterszabo79.github.io/project-no1/gallery.html)
 - The gallery shows some images of my bikes during the building process, from beginning to the final multiple prize-winning custom bike.
-<img src="assets/images/screenshotgallery.jpeg">
+![gallery1](assets/images/screenshotgallery.jpeg)
 
 ---
 
 # [Contact](https://peterszabo79.github.io/project-no1/contact.html)
 - The Contact page has a section to let users contact me by giving their name, email and phone number.
 - The Contact page also has a free image downloaded from Stocksnap.
-<img src="assets/images/screenshotcontact.jpeg">
+![contact1](assets/images/screenshotcontact.jpeg)
 
 ---
 
@@ -85,15 +85,15 @@ and rgb(162 197 182 / 89%)
 
 ### Home 
 
-<img src="assets/images/screenshothome.jpeg">
+![home](assets/images/screenshothome.jpeg)
 
 ### Gallery 
 
-<img src="assets/images/screenshotgallery1.jpeg">
+![gallery](assets/images/screenshotgallery1.jpeg)
 
 ### Contact 
 
-<img src="assets/images/screenshotcontact1.jpeg">
+![contact](assets/images/screenshotcontact1.jpeg)
 
 ---
 
