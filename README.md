@@ -31,12 +31,17 @@ User stories
 Site Structure
 <li>'Peter's Garage' consists of 3 page website.The User can navigate between via the navigation bar. The Home page is the default loading page. The Logo is linked to the Home Page. On the right hand site of the logo are three navigation links of Home, Gallery and Contact. 
 </li>
+<br>
+
 Design
 <ul>
 <li>Color Scheme:
 <ul>
 <li>Main color is green, used two shades #1b4b27 and #0a4e43</li>
-<li>Other colors are: #e45d5d #fafafa (white) #111010 (black)</li>
+<img src="assets/images/1b4b27.jpeg" alt="scrshot">
+
+<img src="assets/images/0a4e43.jpeg" alt="scrshot">
+<li>Other colors are: #e45d5 #e45d5d #fafafa (white) #111010 (black) </li>
 and rgb(162 197 182 / 89%)</li>
 </li></ul>
 <li>Typography
@@ -66,17 +71,17 @@ and rgb(162 197 182 / 89%)</li>
 
 <br>
 
-# The Header
+# [The Header](https://peterszabo79.github.io/project-no1/index.html)
 <li>The header shows the name of the garage name using Pushster fonts.</li>
 <li>The introductory text then explains the garage location, goal, and type of jobs.</li>
 <li>This section also explains about custom culture, providing a few links to help the user to understand this special lifestyle with history, builders and custom parts.</li>
 <br>
 
-<img src="assets/images/ScreenshotHeader).jpeg">
+<img src="assets/images/ScreenshotHome.jpeg">
 
 <br>
 
-# Gallery
+# [Gallery](https://peterszabo79.github.io/project-no1/gallery.html)
 <li>The gallery shows some images of my bikes during the building process, from beginning to the final multiple prize-winning custom bike.</li>
 
 <br>
@@ -86,7 +91,7 @@ and rgb(162 197 182 / 89%)</li>
 <br>
 
 
-# Contact
+# [Contact](https://peterszabo79.github.io/project-no1/contact.html)
 <li>The Contact page has a section to let users contact me by giving their name, email and phone number.</li>
 <li>The Contact page also has a free image downloaded from Stocksnap.
 </li>
@@ -137,9 +142,9 @@ Contact <br>
 <li>In GitPod i have created all the pages and and folders.</li>
 <li>I was then saving my work and pushing it to GitHub repository to keep it safe</li>
 <li>Process for saving, commiting and pushing it to remote repository goes as follows (done in terminal):
-<ul><li>git add . for adding work to git</li>
-<li>git commit -m "Commit message" to commit the work on the stage</li>
-<li>git push to update work to GitHub</li>
+<ul><li>'git add .' for adding work to git</li>
+<li>'git commit -m (+ commit message)' to commit the work on the stage</li>
+<li>'git push' to update work to GitHub</li>
 </ul></li></ul>
 
 
