@@ -26,6 +26,11 @@ User stories
 <li>As a User I want to have a positive experience using the website.</li>
 </ul></li>
 </ul>
+
+
+Site Structure
+<li>'Peter's Garage' consists of 3 page website.The User can navigate between via the navigation bar. The Home page is the default loading page. The Logo is linked to the Home Page. On the right hand site of the logo are three navigation links of Home, Gallery and Contact. 
+</li>
 Design
 <ul>
 <li>Color Scheme:
@@ -122,6 +127,21 @@ Gallery <br>
 
 Contact <br>
 <img src="assets/images/screenshotcontact1.jpeg">
+
+<br>
+
+# Git & GitHub
+<li>I used GitPod as a local repository and IDE and GitHub as a remote repository. The process was:</li>
+<ul><li>First i created a new repository on GitHub.</li>
+<li>I have then opened that repository on GitPod and started coding.</li>
+<li>In GitPod i have created all the pages and and folders.</li>
+<li>I was then saving my work and pushing it to GitHub repository to keep it safe</li>
+<li>Process for saving, commiting and pushing it to remote repository goes as follows (done in terminal):
+<ul><li>git add . for adding work to git</li>
+<li>git commit -m "Commit message" to commit the work on the stage</li>
+<li>git push to update work to GitHub</li>
+</ul></li></ul>
+
 
 
 <br>
