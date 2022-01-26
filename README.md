@@ -21,11 +21,11 @@
 - 'Peter's Garage' consists of 3 page.The User can navigate between via the navigation bar. The Home page is the default loading page. The Logo is linked to the Home Page. On the right hand site of the logo are three navigation links of Home, Gallery and Contact. 
 ## Design
 - Color Scheme:
-  - Main color is green, used two shades #1b4b27 and #0a4e43
-     ![1b4b27](assets/images/1b4b27.jpeg)
-     ![0a4e43](assets/images/0a4e43.jpeg)
-  - Other colors are: #e45d5 #e45d5d #fafafa (white) #111010 (black) 
-and rgb(162 197 182 / 89%)
+  - Used color are:
+     ![1](assets/images/colors1.jpeg)
+     ![2](assets/images/colors2.jpeg)
+     ![3](assets/images/colors3.jpeg) 
+
 - Typography:
   - The fonts used are taken from google fonts named 'Pushster' and 'Lato' with a fall-back of sans-serif.
 - Imagery
