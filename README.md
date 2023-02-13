@@ -1,5 +1,5 @@
 # Peter's Garage
-## Welcome to [Peter's Garage](https://peterszabo79.github.io/project-no1/)!
+## Welcome to [Peter's Garage](https://peterszabo79.github.io/peters-garage/)!
 
 ### Peter’s Garage is a website about Custom Bikes. It shows a passion for built-motorcycles for other enthusiasts like me and introduces my garage which offers every kind of customization. Users of this website can read and learn about custom bikes, builders, parts, and different kinds of bikes. This site is for people who want to find a way to own and ride a one-of-a-kind motorcycle.
 ![respon](assets/images/respon.jpeg)
