@@ -124,7 +124,7 @@ Process for saving, commiting and pushing it to remote repository goes as follow
   - Select Main Branch and click Save.
   - The page provides a link to the completed website.
 
-The live link can be found here - [Peter's Garage](https://peterszabo79.github.io/project-no1/)
+The live link can be found here - [Peter's Garage](https://peterszabo79.github.io/peters-garage/)
 
 
 ---
